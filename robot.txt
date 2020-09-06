@@ -1,0 +1,22 @@
+User-agent: *
+Disallow: /Assets
+Disallow: /bootstrap
+Disallow: /bower_components
+Disallow: /css
+Disallow: /font-awesome-4.7.0
+Disallow: /fonts
+Disallow: /images
+Disallow: /Include
+Disallow: /jquery-ui
+Disallow: /js
+Disallow: /Upload
+
+User-agent: Mediapartners-Google
+Allow: /
+User-agent: Adsbot-Google
+Allow: /
+User-agent: Googlebot-Image
+Allow: /
+User-agent: Googlebot-Mobile
+Allow: /
+Sitemap: sitemap.xml
